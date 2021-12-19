@@ -3,18 +3,14 @@ function template(data) {
 # ${data.Title}
     
 ## Table of Contents
-* [Description](#description)
-* [Email](#email)
-* [Phone](#phone)
-* [Technologies](#technologies)
-* [Installation](#installation)
-* [Usage](#usage)
 * [License](#license)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#instructions)
 * [Contributors](#contributors)
-* [Test](#test)
+* [Testing](#testing)
+* [Phone](#phone)
 * [Questions](#questions)
-## Title 
-${data.Title}
 ## License
 ${data.License}
 ## Description
@@ -31,12 +27,11 @@ ${data.Test}
 ${data.Username}
 ## Email
 ${data.Email}
-## Phone Number
-${data.Phone}
 ## Questions
 Contact me:
 Github:[${data.Username}](https://github.com/${data.Username})
-Email:[${data.Email}](https://github.com/${data.Email})
+Email: ${data.Email}
+Phone: ${data.Phone}
     `
 };
 

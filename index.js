@@ -6,10 +6,6 @@ inquirer.prompt([{
             type: "input",
             name: "Title",
             message: `Enter a title`
-        }, {
-            type: "input",
-            name: "Instructions",
-            message: `Enter usage instructions`
         },
         {
             name: "License",
@@ -24,6 +20,31 @@ inquirer.prompt([{
             ]
         },
         {
+            type: "input",
+            name: "Description",
+            message: `Description`
+        },
+        {
+            type: 'input',
+            name: 'Installation',
+            message: 'Installation instructions'
+        },
+        {
+            type: "input",
+            name: "Instructions",
+            message: `Usage instructions`
+        },
+        {
+            type: 'input',
+            name: 'Contributors',
+            message: 'Contributors'
+        },
+        {
+            type: 'input',
+            name: 'Test',
+            message: 'Testing'
+        },
+        {
             type: 'input',
             name: 'Email',
             message: 'Email'
@@ -32,21 +53,6 @@ inquirer.prompt([{
             type: 'input',
             name: 'Phone',
             message: 'Phone number'
-        },
-        {
-            type: 'input',
-            name: 'Installation',
-            message: 'Installation instructions'
-        },
-        {
-            type: 'input',
-            name: 'Usage',
-            message: 'Usage instructions'
-        },
-        {
-            type: 'input',
-            name: 'Contributors',
-            message: 'Contributors'
         },
         {
             type: 'input',
