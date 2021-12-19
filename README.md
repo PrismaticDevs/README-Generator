@@ -5,7 +5,7 @@
 * [License](#license)
 * [Description](#description)
 * [Installation](#installation)
-* [Usage](#instructions)
+* [Usage Instructions](#usage)
 * [Contributors](#contributors)
 * [Testing](#testing)
 * [Email](#email)
