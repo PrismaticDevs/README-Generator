@@ -13,7 +13,7 @@
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-This command line interface application creates README.md files based on your answers to a series of prompts.
+This command line interface application creates README.md files based on your answers to a series of prompts. As an example of how this app works, the README.md file you ar currentl;y looking at was created using this app.
 ## Installation 
 Clone this repository into a directory and if you have Node.js installed and run "npm install" to download the required Inquirer package.
 ## Usage
