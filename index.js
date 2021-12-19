@@ -31,7 +31,7 @@ inquirer.prompt([{
         },
         {
             type: "input",
-            name: "Instructions",
+            name: "Usage",
             message: `Usage instructions`
         },
         {

@@ -17,8 +17,8 @@ ${data.License}
 ${data.Description}
 ## Installation 
 ${data.Installation}
-## Usage Instructions
-${data.Instructions}
+## Usage
+${data.Usage}
 ## Contributors
 ${data.Contributors}
 ## Testing
