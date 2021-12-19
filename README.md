@@ -1,4 +1,3 @@
-
 # README.md Generator
     
 ## Table of Contents
@@ -12,7 +11,7 @@
 * [Phone](#phone)
 * [Questions](#questions)
 ## License
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 This command line interface application creates README.md files based on your answers to a series of prompts.
 ## Installation 
@@ -29,3 +28,5 @@ Github:[PrismaticDevelopmentStudios](https://github.com/PrismaticDevelopmentStud
 Email: matthewbrignola@ymail.com
 Phone: (719) 351-5828
     
+
+
