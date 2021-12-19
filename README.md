@@ -5,7 +5,7 @@
 * [License](#license)
 * [Description](#description)
 * [Installation](#installation)
-* [Usage Instructions](#usage)
+* [Usage](#usage)
 * [Contributors](#contributors)
 * [Testing](#testing)
 * [Email](#email)
@@ -17,7 +17,7 @@ MIT
 This command line interface application creates README.md files based on your answers to a series of prompts.
 ## Installation 
 Clone this repository into a directory and if you have Node.js installed and run "npm install" to download the required Inquirer package.
-## Usage Instructions
+## Usage
 Run "npm index" from the comamnd line and then answer the following prompts in the command line. After the prompts are answered, a README.md file will be created with the answers you provided.
 ## Contributors
 University of Denver
