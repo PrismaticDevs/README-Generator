@@ -29,7 +29,7 @@ ${data.Username}
 ${data.Email}
 ## Questions
 Contact me:
-Github:[${data.Username}](https://github.com/${data.Username})
+Github: [${data.Username}](https://github.com/${data.Username})
 Email: ${data.Email}
 Phone: ${data.Phone}
     `
