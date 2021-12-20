@@ -7,8 +7,6 @@
 * [Usage](#usage)
 * [Contributors](#contributors)
 * [Testing](#testing)
-* [Email](#email)
-* [Phone](#phone)
 * [Questions](#questions)
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
