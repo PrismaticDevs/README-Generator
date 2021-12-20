@@ -28,7 +28,7 @@ https://youtu.be/EvsOs4ZweWA
 Contact: <br>
 Github:[PrismaticDevelopmentStudios](https://github.com/PrismaticDevelopmentStudios) <br>
 Email:[matthewbrignola@ymail.com](matthewbrignola@ymail.com)
-Phone: ((719) 351-5828)
+Phone: (719) 351-5828
     
 
 
