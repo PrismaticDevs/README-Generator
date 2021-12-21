@@ -63,14 +63,11 @@ inquirer.prompt([{
     .then(answers => {
         if (answers.License === 'MIT') {
             answers.License = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
-        }
-        if (answers.License === "GNU GPL v3") {
+        } else if (answers.License === "GNU GPL v3") {
             answers.License = '[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)';
-        }
-        if (answers.License === "APACHE 2.0") {
+        } else if (answers.License === "APACHE 2.0") {
             answers.License = '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)';
-        }
-        if (answers.License === "BSD 3") {
+        } else if (answers.License === "BSD 3") {
             answers.License = '[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)';
         }
         const data = template(answers);
