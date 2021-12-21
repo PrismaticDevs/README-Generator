@@ -15,7 +15,7 @@ This command line interface application creates README.md files based on your an
 ## Installation 
 In order to be able to run this application, you must have Node.js and NPM  installed. Clone this repository into a directory and once you have Node.js installed, run "npm install" to download the required Inquirer package.
 ## Usage
-Cd into the directory you want to generate th README.md inside of, run "npm index". where you cloned Then answer the following prompts in the command line. After the prompts are answered, a README.md file will be created with the answers you provided to the prompts in the directory you ran "node index" inside of.
+Cd into the directory you want to generate th README.md inside of and run "npm index". Answer the following prompts in the command line. After the prompts are answered, a README.md file will be created with the answers you provided to the prompts in the directory you ran "node index" inside of.
 ## Contributors
 University of Denver
 ## Testing

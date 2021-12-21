@@ -24,9 +24,9 @@ ${data.Contributors}
 ${data.Test}
 ## Questions
 Contact me:
-Github: [${data.Username}](https://github.com/${data.Username})
-Email: [${data.Email}](${data.Email})
-Phone: [${data.Phone}](${data.Phone})
+Github: [${data.Username}](https://github.com/${data.Username}) <br>
+Email: [${data.Email}](${data.Email}) <br>
+Phone: [${data.Phone}](${data.Phone}) <br>
     `
 };
 
