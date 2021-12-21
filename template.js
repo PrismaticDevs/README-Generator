@@ -9,7 +9,6 @@ function template(data) {
 * [Usage](#instructions)
 * [Contributors](#contributors)
 * [Testing](#testing)
-* [Phone](#phone)
 * [Questions](#questions)
 ## License
 ${data.License}
@@ -25,8 +24,6 @@ ${data.Contributors}
 ${data.Test}
 ## Username
 ${data.Username}
-## Email
-${data.Email}
 ## Questions
 Contact me:
 Github: [${data.Username}](https://github.com/${data.Username})
