@@ -22,13 +22,11 @@ ${data.Usage}
 ${data.Contributors}
 ## Testing
 ${data.Test}
-## Username
-${data.Username}
 ## Questions
 Contact me:
 Github: [${data.Username}](https://github.com/${data.Username})
-Email: ${data.Email}
-Phone: ${data.Phone}
+Email: [${data.Email}](${data.Email})
+Phone: [${data.Phone}](${data.Phone})
     `
 };
 
