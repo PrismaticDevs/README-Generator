@@ -39,6 +39,6 @@ Run npm run test
 ## Questions
 
 Contact me:
-Github: [prismaticdevelopmenstudios](https://github.com/prismaticdevelopmentstudios) <br>
-Email: [matthewbrignola@ymail.com](matthewbrignola@ymail.com) <br>
-Phone: [719-351-5828](719-351-5828) <br>
+Github: [prismaticdevelopmentstudios](https://github.com/prismaticdevelopmentstudios) <br>
+Email: matthewbrignola@ymail.com <br>
+Phone: 719-351-5828 <br>
