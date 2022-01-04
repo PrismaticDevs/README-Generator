@@ -37,6 +37,6 @@ n/a
 ## Questions
 
 Contact me:
-Github: [PrismaticDEvelopmentStudios](https://github.com/PrismaticDEvelopmentStudios) <br>
+Github: [PrismaticDevelopmentStudios](https://github.com/PrismaticDEvelopmentStudios) <br>
 Email: matthewbrignola@ymail.com <br>
 Phone: 719-351-5828 <br>
