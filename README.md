@@ -1,11 +1,13 @@
-# Books App
+# Social Media API
 
 ## Table of Contents
 
 - [License](#license)
 - [Description](#description)
+- [Installation](#installation)
 - [Usage](#instructions)
 - [Contributors](#contributors)
+- [Testing](#testing)
 - [Questions](#questions)
 
 ## License
@@ -14,19 +16,27 @@
 
 ## Description
 
-This Full stack Web application id designed to let users eneter book titles and authors into a MySQL database using a Bootstrap styles front end.
+This API uses a MongoDB database and the Mongoose NPM package to perform CRUD operations by accessing routes on an Express.js application. I also built a front end for this API using React.js that is briefly demoed in the video linked in this README.md.
+
+## Installation
+
+No installation necessary.
 
 ## Usage
 
-In the inputes for title and Author you can enter a book's information which then gets added to the database and displayed on the web page,
+This application is not deployed and can not be used on the public internet.
 
 ## Contributors
 
-The University of Denver
+University of Denver
+
+## Testing
+
+n/a
 
 ## Questions
 
 Contact me:
 Github: [PrismaticDevs](https://github.com/PrismaticDevs) <br>
-Email: matthewbrignola@ymail.com <br>
-Phone: 719-351-5828 <br>
+Email: matthewbrignola@gmail.com <br>
+Phone: 7193515828 <br>
